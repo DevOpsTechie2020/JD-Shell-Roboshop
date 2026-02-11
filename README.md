@@ -1,3 +1,6 @@
+![roboshop](https://github.com/user-attachments/assets/5c9152c6-153c-4190-8cfd-5ae8919d8268)
+
+
 **3-Tier Architeccture Deployment on AWS using Shell Scripting**
 
 Project Overview
